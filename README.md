@@ -1,3 +1,11 @@
+
+
+
+![](https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif)
+
+
+
+
 ## Hi there 👋
 
 Меня зовут Егор . Я студент Университета ИТМО ! Я стремлюсь развиваться в сфере IT и открывать новые горизонты . Спасибо, что посетили мой профиль . Я надеюсь, вам здесь понравится !
@@ -7,7 +15,7 @@
 My name is Yegor . I am a student at ITMO University ! I strive to develop in the field of IT and open up new horizons . Thank you for visiting my profile . I hope you enjoy it here !
 
 
-# Контакты
+
 
 
 <a href="https://t.me/egorbatar">
