@@ -21,11 +21,11 @@ My name is Yegor . I am a student at ITMO University ! I strive to develop in th
 
 
 <a href="https://t.me/egorbatar">
-  <img src="https://cs14.pikabu.ru/post_img/2022/12/12/6/og_og_1670835606262117833.jpg" alt="Ссылка на тг" width="100" style="border: 2px solid red;">
+  <img src="https://cs14.pikabu.ru/post_img/2022/12/12/6/og_og_1670835606262117833.jpg" alt="Ссылка на тг" width="50" style="border: 2px solid red;">
 </a>
 
 <a href="https://vk.com/egorbatar">
-  <img src="https://control.nsuem.ru/upload/iblock/86c/vk-2.jpg" alt="Ссылка на вк" width="100" style="border: 2px solid red;">
+  <img src="https://control.nsuem.ru/upload/iblock/86c/vk-2.jpg" alt="Ссылка на вк" width="40" style="border: 2px solid red;">
 </a>
 
 <!--
