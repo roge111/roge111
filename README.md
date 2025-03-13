@@ -14,7 +14,7 @@
 
 # 
 
-My name is Yegor . I am a student at ITMO University ! I strive to develop in the field of IT and open up new horizons . Thank you for visiting my profile . I hope you enjoy it here !
+My name is Egor . I am a student at ITMO University ! I strive to develop in the field of IT and open up new horizons . Thank you for visiting my profile . I hope you enjoy it here !
 
 
 
