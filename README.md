@@ -27,6 +27,9 @@ My name is Egor . I am a student at ITMO University ! I strive to develop in the
 
 
 
+# Контакты
+
+
 <a href="https://t.me/egorbatar">
   <img src="https://magnet-prof.ru/images/stories/aa-scaled.jpg" alt="Ссылка на тг" width="50" style="border: 2px solid red;">
 </a>
