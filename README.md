@@ -21,7 +21,7 @@ My name is Egor . I am a student at ITMO University ! I strive to develop in the
 
 Кликните по картинке, чтоб открыть версию больше.
 
-<a href="https://github.com/roge111](https://github.com/roge111/Resume">
+<a href="https://github.com/roge111/Resume">
   <img src="https://github.com/roge111/Resume/blob/main/Резюме.png?raw=true" alt="" width="500" style="border: 2px solid red;">
 </a>
 
